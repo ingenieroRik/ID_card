@@ -70,7 +70,7 @@ margin-top: 120px;
 }
 .redes-sociales{
     color: blue;
-    font-size: 24px;
+    font-size: 28px;
 }
 .boton-sobre-mi {
     color:white;
@@ -147,7 +147,9 @@ margin-top: 120px;
   .skills__level {
     font-size: .813rem;
   }
-  
+  .link-github {
+    color:gray;
+  }
 
 @media (max-width:640px) {
     .tarjeta{
